@@ -1,0 +1,5 @@
+/original/
+*user1.crt
+*user1.csr
+*user1.key
+*kube-apiserver.yaml
